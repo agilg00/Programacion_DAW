@@ -16,3 +16,4 @@ Algoritmo sueldo_semanal
 	
 	
 FinAlgoritmo
+//creo que funciona correctamente
